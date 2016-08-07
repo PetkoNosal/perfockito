@@ -1,4 +1,4 @@
-# perfockito
+# Perfockito
 Performance testing framework
 
 #Work in progress
